@@ -1,0 +1,87 @@
+{
+    "hello":"my name is good",
+    "nav_bar": {
+        "person_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/person_icon.svg"
+    },
+    "heading": {
+        "heading": "All Bids From Merchants",
+        "sub_heading": "Some subheading for the offers of merchants",
+        "svg": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/bids_vector.svg"
+    },
+    "main_product": {
+        "product_title": "realme 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Handsfree Voice Search and Dolby Vision & Atmos (RMV2004)",
+        "product_pipeline": "Home Appliances > Television",
+        "main_product_svg": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/main_image.svg",
+        "online_price": 39990,
+        "quantity": 3,
+        "status_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/status_icon.svg",
+        "online_price_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/online_price_icon.svg",
+        "time_remaining": 11,
+        "bid_placed": 3
+    },
+    "bids": [
+        {
+            "shop_name": "Merchant Studio Innovations Pvt. Ltd.",
+            "shop_address": "Watchmart street no - 4",
+            "shop_image": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/seller_one.svg",
+            "offer_price": 35000,
+            "express_delivery": true,
+            "return_option": true,
+            "check_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/check_icon.svg",
+            "cross_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/cross_icon.svg",
+            "online_price_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/online_price_icon.svg",
+            "express_delivery_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/delivery_icon.svg",
+            "return_option_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/return_option.svg",
+            "extra_offer_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/extra_offer.svg",
+            "product_name": "Baja Platini PX97 Torque 36-Litres Personal Air Cooler (White)- for Medium Room",
+            "alternate_product_details": {
+                "product_name": "realme 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Handsfree Voice Search and Dolby Vision & Atmos (RMV2004)",
+                "online_price": 39990,
+                "offer_price": 34500,
+                "online_price_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/online_price_icon.svg"
+            }
+        },
+        {
+            "shop_name": "Champions",
+            "shop_address": "Watchmart street no - 4",
+            "shop_image": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/seller_two.svg",
+            "offer_price": 35000,
+            "express_delivery": true,
+            "return_option": false,
+            "check_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/check_icon.svg",
+            "cross_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/cross_icon.svg",
+            "online_price_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/online_price_icon.svg",
+            "express_delivery_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/delivery_icon.svg",
+            "return_option_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/return_option.svg",
+            "extra_offer_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/extra_offer.svg",
+            "product_name": "Baja Platini PX97 Torque 36-Litres Personal Air Cooler (White)- for Medium Room",
+            "alternate_product_details": {
+                "product_name": "realme 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Handsfree Voice Search and Dolby Vision & Atmos (RMV2004)",
+                "online_price": 39990,
+                "offer_price": 34500,
+                "online_price_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/online_price_icon.svg"
+            }
+        },
+        {
+            "shop_name": "Louis Vuitton",
+            "shop_address": "Watchmart street no - 4",
+            "shop_image": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/seller_three.svg",
+            "offer_price": 35000,
+            "express_delivery": true,
+            "return_option": false,
+            "check_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/check_icon.svg",
+            "cross_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/cross_icon.svg",
+            "online_price_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/online_price_icon.svg",
+            "express_delivery_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/delivery_icon.svg",
+            "return_option_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/return_option.svg",
+            "extra_offer_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/extra_offer.svg",
+            "product_name": "Baja Platini PX97 Torque 36-Litres Personal Air Cooler (White)- for Medium Room",
+            "alternate_product_details": {
+                "product_name": "realme 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV with Handsfree Voice Search and Dolby Vision & Atmos (RMV2004)",
+                "online_price": 39990,
+                "offer_price": 34500,
+                "online_price_icon": "https://ohlocal-media.s3.ap-south-1.amazonaws.com/web-assignment-assets/online_price_icon.svg"
+            }
+        }
+    ]
+}
